@@ -10,6 +10,14 @@ A fan-made port of classic DotA that runs in the browser: a 5v5 MOBA against bot
 
 We recommend desktop **Chrome**. Other browsers haven't been fully tested. After the first load you can install it from the address bar and play offline against bots.
 
+## Screenshots / 截图
+
+| Hero select / 选择英雄 | Draft / 阵容 |
+| :---: | :---: |
+| <img src="screenshots/hero-select.jpeg" alt="Hero select screen with 112 heroes" /> | <img src="screenshots/draft.jpeg" alt="Sentinel vs Scourge draft preview" /> |
+| **Battle / 战斗** | **Shop / 商店** |
+| <img src="screenshots/battle.jpeg" alt="Lina casting Light Strike Array and Dragon Slave in mid lane" /> | <img src="screenshots/shop.jpeg" alt="In-game shop with item build tree" /> |
+
 ## 健康游戏忠告 / Healthy Gaming Advisory
 
 > 抵制不良游戏，拒绝盗版游戏。<br>
