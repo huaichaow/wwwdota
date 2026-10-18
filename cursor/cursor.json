@@ -1,0 +1,189 @@
+{
+ "size": 32,
+ "states": {
+  "normal": {
+   "frames": [
+    "normal_0"
+   ],
+   "ms": 0,
+   "loop": false,
+   "hot": [
+    6,
+    4
+   ]
+  },
+  "select": {
+   "frames": [
+    "select_0",
+    "select_1",
+    "select_2",
+    "select_3",
+    "select_4",
+    "select_5",
+    "select_6",
+    "select_7"
+   ],
+   "ms": 62,
+   "loop": false,
+   "hot": [
+    6,
+    4
+   ]
+  },
+  "target": {
+   "frames": [
+    "target_0"
+   ],
+   "ms": 0,
+   "loop": false,
+   "hot": [
+    16,
+    16
+   ]
+  },
+  "targetSelect": {
+   "frames": [
+    "targetSelect_0",
+    "targetSelect_1",
+    "targetSelect_2",
+    "targetSelect_3",
+    "targetSelect_4",
+    "targetSelect_5",
+    "targetSelect_6",
+    "targetSelect_7"
+   ],
+   "ms": 67,
+   "loop": false,
+   "hot": [
+    16,
+    16
+   ]
+  },
+  "invalid": {
+   "frames": [
+    "invalid_0"
+   ],
+   "ms": 0,
+   "loop": false,
+   "hot": [
+    16,
+    16
+   ]
+  },
+  "hold": {
+   "frames": [
+    "hold_0"
+   ],
+   "ms": 0,
+   "loop": false,
+   "hot": [
+    6,
+    4
+   ]
+  },
+  "scroll-e": {
+   "frames": [
+    "scroll-e_0",
+    "scroll-e_1",
+    "scroll-e_2"
+   ],
+   "ms": 67,
+   "loop": true,
+   "hot": [
+    28,
+    15
+   ]
+  },
+  "scroll-ne": {
+   "frames": [
+    "scroll-ne_0",
+    "scroll-ne_1",
+    "scroll-ne_2"
+   ],
+   "ms": 67,
+   "loop": true,
+   "hot": [
+    24,
+    6
+   ]
+  },
+  "scroll-n": {
+   "frames": [
+    "scroll-n_0",
+    "scroll-n_1",
+    "scroll-n_2"
+   ],
+   "ms": 67,
+   "loop": true,
+   "hot": [
+    15,
+    3
+   ]
+  },
+  "scroll-nw": {
+   "frames": [
+    "scroll-nw_0",
+    "scroll-nw_1",
+    "scroll-nw_2"
+   ],
+   "ms": 67,
+   "loop": true,
+   "hot": [
+    6,
+    7
+   ]
+  },
+  "scroll-w": {
+   "frames": [
+    "scroll-w_0",
+    "scroll-w_1",
+    "scroll-w_2"
+   ],
+   "ms": 67,
+   "loop": true,
+   "hot": [
+    3,
+    16
+   ]
+  },
+  "scroll-sw": {
+   "frames": [
+    "scroll-sw_0",
+    "scroll-sw_1",
+    "scroll-sw_2"
+   ],
+   "ms": 67,
+   "loop": true,
+   "hot": [
+    7,
+    25
+   ]
+  },
+  "scroll-s": {
+   "frames": [
+    "scroll-s_0",
+    "scroll-s_1",
+    "scroll-s_2"
+   ],
+   "ms": 67,
+   "loop": true,
+   "hot": [
+    16,
+    28
+   ]
+  },
+  "scroll-se": {
+   "frames": [
+    "scroll-se_0",
+    "scroll-se_1",
+    "scroll-se_2"
+   ],
+   "ms": 67,
+   "loop": true,
+   "hot": [
+    25,
+    24
+   ]
+  }
+ }
+}

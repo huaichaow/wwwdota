@@ -1,0 +1,226 @@
+{
+ "AFOD": {
+  "color": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "duration": 2.0,
+  "noise": 0.05,
+  "segLen": 100.0,
+  "tex": "replaceabletextures/weather/lightningred.png",
+  "uvScale": 0.5,
+  "width": 50.0
+ },
+ "CHIM": {
+  "color": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "duration": 2.0,
+  "noise": 0.04,
+  "segLen": 100.0,
+  "tex": "replaceabletextures/weather/lightning.png",
+  "uvScale": 0.5,
+  "width": 45.0
+ },
+ "CLPB": {
+  "color": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "duration": 2.0,
+  "noise": 0.05,
+  "segLen": 100.0,
+  "tex": "replaceabletextures/weather/lightning.png",
+  "uvScale": 0.5,
+  "width": 50.0
+ },
+ "CLSB": {
+  "color": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "duration": 2.0,
+  "noise": 0.05,
+  "segLen": 100.0,
+  "tex": "replaceabletextures/weather/lightning.png",
+  "uvScale": 0.5,
+  "width": 30.0
+ },
+ "DRAL": {
+  "color": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "duration": 2.0,
+  "noise": 0.01,
+  "segLen": 50.0,
+  "tex": "replaceabletextures/weather/drainlightning.png",
+  "uvScale": -0.8,
+  "width": 40.0
+ },
+ "DRAM": {
+  "color": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "duration": 2.0,
+  "noise": 0.01,
+  "segLen": 50.0,
+  "tex": "replaceabletextures/weather/drainmanalightning.png",
+  "uvScale": -0.8,
+  "width": 40.0
+ },
+ "ETHE": {
+  "color": [
+   0.996078431372549,
+   0.5254901960784314,
+   0.054901960784313725,
+   1.0
+  ],
+  "duration": 2.0,
+  "noise": 0.05,
+  "segLen": 100.0,
+  "tex": "replaceabletextures/weather/lightningforked.png",
+  "uvScale": 0.5,
+  "width": 50.0
+ },
+ "FORK": {
+  "color": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "duration": 2.0,
+  "noise": 0.05,
+  "segLen": 100.0,
+  "tex": "replaceabletextures/weather/lightningforked.png",
+  "uvScale": 0.5,
+  "width": 50.0
+ },
+ "HWPB": {
+  "color": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "duration": 2.0,
+  "noise": 0.0001,
+  "segLen": 100.0,
+  "tex": "replaceabletextures/weather/healbeam.png",
+  "uvScale": 0.6,
+  "width": 50.0
+ },
+ "LBSN": {
+  "color": [
+   0.19607843137254902,
+   1.0,
+   0.19607843137254902,
+   1.0
+  ],
+  "duration": 0.2,
+  "noise": 0.07,
+  "segLen": 50.0,
+  "tex": "replaceabletextures/weather/lightningspirit.png",
+  "uvScale": 0.5,
+  "width": 75.0
+ },
+ "LEAS": {
+  "color": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "duration": 2.0,
+  "noise": 0.01,
+  "segLen": 50.0,
+  "tex": "replaceabletextures/weather/lariatcaught.png",
+  "uvScale": 0.5,
+  "width": 80.0
+ },
+ "MBUR": {
+  "color": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "duration": 2.0,
+  "noise": 0.04,
+  "segLen": 100.0,
+  "tex": "replaceabletextures/weather/manaburnbeam.png",
+  "uvScale": 0.6,
+  "width": 45.0
+ },
+ "MFPB": {
+  "color": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "duration": 2.0,
+  "noise": 0.05,
+  "segLen": 100.0,
+  "tex": "replaceabletextures/weather/lightningmana.png",
+  "uvScale": 0.5,
+  "width": 30.0
+ },
+ "PONC": {
+  "color": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "duration": 2.0,
+  "noise": 0.01,
+  "segLen": 50.0,
+  "tex": "war3mapimported/pounce3.png",
+  "uvScale": -0.8,
+  "width": 40.0
+ },
+ "SPLK": {
+  "color": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "duration": 2.0,
+  "noise": 0.04,
+  "segLen": 100.0,
+  "tex": "replaceabletextures/weather/lightningspirit.png",
+  "uvScale": 0.5,
+  "width": 45.0
+ },
+ "SRAY": {
+  "color": [
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "duration": 2.0,
+  "noise": 0.01,
+  "segLen": 50.0,
+  "tex": "war3mapimported/drainmanalightning.png",
+  "uvScale": -0.8,
+  "width": 40.0
+ }
+}
