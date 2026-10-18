@@ -10,6 +10,17 @@ A fan-made port of classic DotA that runs in the browser: a 5v5 MOBA against bot
 
 We recommend desktop **Chrome**. Other browsers haven't been fully tested. After the first load you can install it from the address bar and play offline against bots.
 
+## 健康游戏忠告 / Healthy Gaming Advisory
+
+> 抵制不良游戏，拒绝盗版游戏。<br>
+> 注意自我保护，谨防受骗上当。<br>
+> 适度游戏益脑，沉迷游戏伤身。<br>
+> 合理安排时间，享受健康生活。
+>
+> Reject harmful and pirated games. Protect yourself and beware of scams.<br>
+> Gaming in moderation is good for the mind; addiction harms the body.<br>
+> Plan your time wisely and enjoy a healthy life.
+
 ## How to play / 玩法
 
 1. On the hero select screen, pick a hero (or **🎲 Random hero**) and set the ally and enemy bot difficulty (Easy / Normal / Hard).
